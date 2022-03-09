@@ -1,0 +1,6 @@
+numpy
+requests
+tabulate
+numerize
+pycoingecko
+python-telegram-bot
