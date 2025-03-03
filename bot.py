@@ -11,11 +11,11 @@ import time
 import requests
 cg = CoinGeckoAPI()
 
-apiKey = '5123114329:AAE6BMUem5V_VgxF6tMPgkAon8hGE5b9cNM'
+apiKey = 'API_KEY'
 
 ## Reused Text
 ######################################
-credit = f"\n\n✪<b> Bot by @dchklg </b>"
+credit = f"\n\n✪<b> Bot by @amoux_sh </b>"
 errorAlert = f'⚠️ Please provide a valid crypto name/symbol. Type /help to know more...'
 ######################################
 
